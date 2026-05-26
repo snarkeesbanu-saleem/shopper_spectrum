@@ -1,6 +1,6 @@
 # 🛒 Shopper Spectrum – Customer Segmentation Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopperspectrum-k8dft9thjyeg7rvbamfhus.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopperspectrum-k8dft9thjyeg7rvbamfhus.streamlit.app/))
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
 **Shopper Spectrum** is an interactive customer analytics dashboard built with **Python**, **Streamlit**, and **Plotly**. It segments customers using **RFM (Recency, Frequency, Monetary) analysis**, helping e‑commerce businesses identify high‑value customers, predict churn risk, and create targeted marketing strategies.
@@ -71,24 +71,30 @@ The dashboard uses the **Online Retail Data Set** from the UCI Machine Learning 
 The raw data is processed in real‑time when the app starts. RFM scores are computed and cached for performance.
 
 ---
+## 🔮 Future Enhancements
 
-🔮 Future Enhancements
-Real‑time data refresh – pull latest transactions from an API or database.
-Email alerts – notify marketing teams when a high‑value customer becomes “At Risk”.
-Dynamic clustering – replace quartile‑based segmentation with K‑Means or DBSCAN for data‑driven segments.
-Product recommendation engine – suggest items based on past purchases of similar segments.
-Animated transitions – show how customers move between segments over time.
+- **Real‑time data refresh** – pull latest transactions from an API or database.
+- **Email alerts** – notify marketing teams when a high‑value customer becomes “At Risk”.
+- **Dynamic clustering** – replace quartile‑based segmentation with K‑Means or DBSCAN for data‑driven segments.
+- **Product recommendation engine** – suggest items based on past purchases of similar segments.
+- **Animated transitions** – show how customers move between segments over time.
 
-🙏 Acknowledgments
-UCI Machine Learning Repository for providing the Online Retail Dataset.
-Streamlit for the amazing framework that turns Python scripts into interactive dashboards.
-Plotly for the beautiful, interactive charts.
+---
 
-💡 Usage
+## 🙏 Acknowledgments
+
+- **UCI Machine Learning Repository** for providing the Online Retail Dataset.
+- **Streamlit** for the amazing framework that turns Python scripts into interactive dashboards.
+- **Plotly** for the beautiful, interactive charts.
+
+---
+
+## 💡 Usage
+
 Once the app is running, you can:
 
-Filter customers by segment, recency range, frequency, or monetary value.
-Search for a specific customer by ID to see their RFM profile.
-Compare two customer segments side by side.
-Simulate a hypothetical customer (set custom recency/frequency/monetary) and see which segment they would fall into.
-Download the filtered dataset as CSV for further analysis.
+- **Filter** customers by segment, recency range, frequency, or monetary value.
+- **Search** for a specific customer by ID to see their RFM profile.
+- **Compare** two customer segments side by side.
+- **Simulate** a hypothetical customer (set custom recency/frequency/monetary) and see which segment they would fall into.
+- **Download** the filtered dataset as CSV for further analysis.
