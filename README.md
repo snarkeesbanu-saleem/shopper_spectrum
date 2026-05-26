@@ -1,5 +1,4 @@
 # 🛒 Shopper Spectrum – Customer Segmentation Dashboard
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopperspectrum-k8dft9thjyeg7rvbamfhus.streamlit.app/)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
