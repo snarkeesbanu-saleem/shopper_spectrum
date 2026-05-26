@@ -1,5 +1,5 @@
 # 🛒 Shopper Spectrum – Customer Segmentation Dashboard
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shopperspectrum-k8dft9thjyeg7rvbamfhus.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://shopperspectrum-k8dft9thjyeg7rvbamfhus.streamlit.app/)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
 **Shopper Spectrum** is an interactive customer analytics dashboard built with **Python**, **Streamlit**, and **Plotly**. It segments customers using **RFM (Recency, Frequency, Monetary) analysis**, helping e‑commerce businesses identify high‑value customers, predict churn risk, and create targeted marketing strategies.
